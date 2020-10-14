@@ -19,6 +19,7 @@ const ColorScreen = () => {
                     return  <View style = {{ height: 100, width: 100, backgroundColor: item}}/>
                 }}
             />
+            <View></View>
         </View>
     );
 };
